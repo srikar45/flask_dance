@@ -1,2 +1,3 @@
-*.db*
+*.pyc
+*.db
 .DS_Store
